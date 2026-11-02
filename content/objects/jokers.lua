@@ -2023,9 +2023,9 @@ SMODS.Joker({
 	blueprint_compat = true,
 	eternal_compat = true,
 	perishable_compat = true,
-	atlas = "neuroCustomJokers",
+	atlas = "neuroCustomJokers2",
 	pools = { ["neurJoker"] = true },
-	pos = { x = 1, y = 0 },
+	pos = { x = 7, y = 0 },
 	in_pool = function(self, args)
 		return true
 	end,
